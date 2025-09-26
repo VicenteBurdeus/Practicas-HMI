@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f774671ba73b379df0ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Proyecto_bola",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_bola::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_bola-Debug-8bb9364e3c73ea7f6320.json",
+					"name" : "Proyecto_bola",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_bola_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_bola_autogen-Debug-3ab975364a352a0b353b.json",
+					"name" : "Proyecto_bola_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_bola_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_bola_autogen_timestamp_deps-Debug-ea21673bd2566f0f9af7.json",
+					"name" : "Proyecto_bola_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/Proyecto_Bola/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/Proyecto_Bola"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
