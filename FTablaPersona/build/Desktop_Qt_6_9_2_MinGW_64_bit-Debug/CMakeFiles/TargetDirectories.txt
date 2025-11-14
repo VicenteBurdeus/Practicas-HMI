@@ -1,0 +1,9 @@
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/FTablaPersona.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/FTablaPersona_autogen_timestamp_deps.dir
+C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/FTablaPersona_autogen.dir

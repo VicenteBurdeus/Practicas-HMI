@@ -1,0 +1,18 @@
+# ninja log v6
+8	1365	7842063547387161	FTablaPersona_autogen/timestamp	b6c61ed2bd92140d
+8	1365	7842063547387161	FTablaPersona_autogen/mocs_compilation.cpp	b6c61ed2bd92140d
+8	1365	7842063547387161	C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/FTablaPersona_autogen/timestamp	b6c61ed2bd92140d
+8	1365	7842063547387161	C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/FTablaPersona_autogen/mocs_compilation.cpp	b6c61ed2bd92140d
+1374	1481	7842063549692381	FTablaPersona_autogen/EWIEGA46WW/qrc_resources.cpp	1955cfda794b1cd
+1374	1481	7842063549692381	C:/Users/vjbur/Desktop/Tercero/HMI/Practicas-HMI/FTablaPersona/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/FTablaPersona_autogen/EWIEGA46WW/qrc_resources.cpp	1955cfda794b1cd
+1524	1874	7842063550232190	CMakeFiles/FTablaPersona.dir/FTablaPersona_autogen/EWIEGA46WW/qrc_resources.cpp.obj	b14e31761aede717
+1494	5189	7842063549926915	CMakeFiles/FTablaPersona.dir/persona/persona.cpp.obj	7b11f70aadb23ad9
+1503	6724	7842063550026637	CMakeFiles/FTablaPersona.dir/persona/personatablemodel.cpp.obj	bf17dd7ddb8ad81d
+1508	6995	7842063550076514	CMakeFiles/FTablaPersona.dir/iconcombobox.cpp.obj	48245d6c7cc242ae
+1514	7527	7842063550126373	CMakeFiles/FTablaPersona.dir/tabla/tablewindow.cpp.obj	8c929b9ae36712cd
+1498	7609	7842063549976781	CMakeFiles/FTablaPersona.dir/persona/personadelegate.cpp.obj	c09e4939bbeb43f2
+1485	7988	7842063549847113	CMakeFiles/FTablaPersona.dir/main.cpp.obj	4e6fec96b188af11
+1519	8272	7842063550176235	CMakeFiles/FTablaPersona.dir/tabla/dialogpersona.cpp.obj	411ef165da0ba940
+1482	8450	7842063549807246	CMakeFiles/FTablaPersona.dir/FTablaPersona_autogen/mocs_compilation.cpp.obj	8135583c42502126
+1489	8797	7842063549877031	CMakeFiles/FTablaPersona.dir/mainwindow.cpp.obj	2a32c7450b481e5b
+8797	9660	7842063622957005	FTablaPersona.exe	6fc0c13d4e8d1820
